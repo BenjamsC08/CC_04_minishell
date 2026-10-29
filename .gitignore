@@ -1,1 +1,9 @@
-.out
+*/*/*.o
+*/*.o
+minishell
+outfile*
+infile
+.ms_history
+truc.*
+test*
+result*
